@@ -57,7 +57,7 @@ cd /var/log/backup/dated
 
 echo "check move folder list"
 ls -lrt | grep "april 6"
-ls -lrt
+ls -ltr
 
 du -sh alternatives.log.tar
 du -sh dpkg.log.tar
