@@ -75,7 +75,7 @@ echo "Now run the installer, using:"
 echo "To verify the installation, type"
 aws --version
 echo "Update system packages"
-sudo apt-get update
+apt-get update
 echo "Once the system packages are updated, run the following command to install AWS CLI"
 apt-get install awscli -y
 echo "On completion the installation, run the following command to verify"
