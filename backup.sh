@@ -84,8 +84,8 @@ echo "Run the following command to configure access to aws account"
 aws configure
 echo "Enter the following details accordingly"
 
-	AWS Access Key ID [IAM user's Access key] :AKIAYWB26U3DFWWODN6J
-  AWS Secret Access Key [IAM user's secret key] :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
+AWS Access Key ID [IAM user's Access key] :AKIAYWB26U3DFWWODN6J
+AWS Secret Access Key [IAM user's secret key] :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
 Default region name [Aws region] ap-south-1
 Default output format [JSON format is fine]
 
