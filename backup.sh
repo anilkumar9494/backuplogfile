@@ -23,7 +23,7 @@ tar cf alternatives.log.tar alternatives.log
 echo "create a backupfile "
 tar cf dpkg.log.tar dpkg.log
 
-echo "your directory code is created successfully"
+echo "your directory backup is created successfully"
 mkdir backup
 
 echo "file move to folder"
